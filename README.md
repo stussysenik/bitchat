@@ -1,3 +1,7 @@
+> **Fork** — [![Last Commit](https://img.shields.io/github/last-commit/stussysenik/bitchat?style=flat-square)]()
+
+---
+
 <img width="256" height="256" alt="icon_128x128@2x" src="https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47" />
 
 ## bitchat
